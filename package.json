@@ -1,0 +1,12 @@
+{
+  "name": "fcc-timestamp",
+  "version": "1.0.0",
+  "description": "Microservice allows you to request a date and have it displayed back as a unix timestamp or a plain text, easy to read date.",
+  "main": "server.js",
+  "repository": "",
+  "author": "CEREBR4L",
+  "dependencies": {
+    "moment": "~2.13.0",
+    "express": "~3.2.4",
+  }
+}
